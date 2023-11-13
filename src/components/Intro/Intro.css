@@ -3,6 +3,12 @@
   height: 77vh;
   margin-top: 6rem;
 }
+.img-barkat{
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  
+}
 
 /* left side styling */
 .i-left {
